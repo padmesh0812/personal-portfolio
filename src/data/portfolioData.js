@@ -20,9 +20,9 @@ export const personalInfo = {
   firstName: "Padmesh",
   roleTitle: "Software Developer",
   roleSubtitle: "React & MERN Stack Specialist",
-  experienceYears: "2 Years Experience",
-  shortPitch: "Software Developer with 2 years of hands-on experience as a React developer, building responsive, high-performance web interfaces and full-stack applications using React, JavaScript, HTML, CSS, Node.js, and MongoDB.",
-  bio: "Software Developer with 2 years of hands-on experience as a React developer, building responsive, high-performance web interfaces and full-stack applications using React, JavaScript, HTML, CSS, Node.js, and MongoDB. Focused on AI/ML and full-stack development, with strong problem-solving skills and the ability to write clean, efficient code and deliver user-focused solutions.",
+  experienceYears: "6 Month Experience",
+  shortPitch: "Software Developer with 6 months of hands-on experience as a React developer, building responsive, high-performance web interfaces and full-stack applications using React, JavaScript, HTML, CSS, Node.js, and MongoDB.",
+  bio: "Software Developer with 6 months of hands-on experience as a React developer, building responsive, high-performance web interfaces and full-stack applications using React, JavaScript, HTML, CSS, Node.js, and MongoDB. Focused on AI/ML and full-stack development, with strong problem-solving skills and the ability to write clean, efficient code and deliver user-focused solutions.",
   email: "singhpadmesh90@gmail.com",
   phone: "+91 77058 84551",
   location: "Delhi, India",
@@ -39,12 +39,12 @@ export const personalInfo = {
   avatar: padmeshImg,
   highlights: [
     "React.js & Full-Stack Developer",
-    "2 Years Hands-on Experience",
+    "6 Month Hands-on Experience",
     "REST API Integration & Modern UI",
     "Node.js, Express & MongoDB"
   ],
   stats: [
-    { label: "Hands-on Experience", value: "2 Years" },
+    { label: "Hands-on Experience", value: "6 Months" },
     { label: "Projects Completed", value: "5+" },
     { label: "B.Tech AKTU", value: "72%" }
   ]
